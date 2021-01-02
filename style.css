@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    background-image:url(https://wallpaperaccess.com/full/1374058.jpg);
+    background-repeat:no-repeat;
+    background-size: 1500px 930px;
+}
+p{
+    font-family:"Rochester";
+    font-size: 80px;
+    color:whitesmoke;
+}
+#family_img{
+    width:300px;
+    height:500px;
+    border-style:solid;
+    border-width: 2px;
+    border-color: lavenderblush;
+}
+#label_name{
+    color:whitesmoke;
+    font-family:'Hanalei',cursive;
+}
+#label_relation{
+    color:whitesmoke;
+}
